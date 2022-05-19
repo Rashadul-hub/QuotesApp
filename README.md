@@ -24,3 +24,7 @@ Requrements :
  
 2. The JSON API link : https://type.fit/api/quotes
   
+  
+  
+  
+<img width="656" alt="Screen Shot 2022-05-20 at 12 44 08 AM" src="https://user-images.githubusercontent.com/84420804/169377561-d4f48a55-1940-4505-98b0-af3004b4045e.png">
